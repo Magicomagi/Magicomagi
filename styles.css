@@ -7,7 +7,7 @@ header {
     background-size: cover;
     height: 200px;
     text-align: center;
-		text-shadow: black;
+    text-shadow: 2px 2px #000000;;
     color: white;
     padding-top: 50px;
 }
